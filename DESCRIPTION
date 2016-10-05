@@ -1,6 +1,6 @@
 Package: myPack
 Title: Some private functions
-Version: 0.0.0.2
+Version: 0.0.0.3
 Authors@R: person("Eduardo", "Cortes",
     email = "eduardo.cortesgomez@roswellpark.org",
     role = c("aut", "cre"))
