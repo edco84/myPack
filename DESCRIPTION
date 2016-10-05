@@ -1,8 +1,8 @@
 Package: myPack
 Title: Some private functions
-Version: 0.0.0.1
-Authors@R: person("Eduardo", "Cortes", 
-    email = "eduardo.cortesgomez@roswellpark.org", 
+Version: 0.0.0.2
+Authors@R: person("Eduardo", "Cortes",
+    email = "eduardo.cortesgomez@roswellpark.org",
     role = c("aut", "cre"))
 Description: Some functions that come in unexpectedly useful. This functions
     can come in handy for bioinformatics programming.
